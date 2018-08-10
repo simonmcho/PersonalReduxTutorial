@@ -1,4 +1,4 @@
-# This is Tayst Website, with first iteration of designs from dk
+# This is a personal redux tutorial for my own use.
 
 ## Aug 9, 2018
 ### Redux/State Management [LINK HERE](https://www.valentinog.com/blog/react-redux-tutorial-beginners/#React_Redux_tutorial_getting_to_know_the_Redux_store)
